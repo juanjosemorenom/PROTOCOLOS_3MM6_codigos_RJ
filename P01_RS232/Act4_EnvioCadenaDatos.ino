@@ -1,4 +1,4 @@
-\#include <SoftwareSerial.h>
+#include <SoftwareSerial.h>
 
 SoftwareSerial mspSerial(10, 11); // Pines para UART (RX y TX)
 
